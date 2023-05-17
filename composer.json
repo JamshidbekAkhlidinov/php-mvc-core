@@ -1,0 +1,11 @@
+{
+    "name": "akhlidinov/php-mvc-core",
+    "description": "Framework",
+    "authors": [
+        {
+            "name": "JamshidbekAkhlidinov",
+            "email": "JamshidbekAkhlidinov@gmail.com"
+        }
+    ],
+    "require": {}
+}
