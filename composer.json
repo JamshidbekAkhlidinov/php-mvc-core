@@ -7,5 +7,10 @@
             "email": "JamshidbekAkhlidinov@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "akhlidinov\\phpmvc": "."
+        }
+    }
 }
