@@ -6,10 +6,10 @@
  */
 
 
-namespace app\core;
+namespace akhlidinov\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use akhlidinov\phpmvc\db\Database;
+use akhlidinov\phpmvc\db\DbModel;
 
 class Application
 {

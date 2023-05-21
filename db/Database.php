@@ -5,8 +5,8 @@
  *   https://github.com/JamshidbekAkhlidinov
  */
 
-namespace app\core\db;
-use app\core\Application;
+namespace akhlidinov\phpmvc\db;
+use akhlidinov\phpmvc\Application;
 
 class Database
 {

@@ -5,7 +5,7 @@
  *   https://github.com/JamshidbekAkhlidinov
  */
 
-namespace app\core\form;
+namespace akhlidinov\phpmvc\form;
 
 class TextareaInput extends BaseField
 {

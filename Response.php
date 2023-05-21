@@ -5,7 +5,7 @@
  *   https://github.com/JamshidbekAkhlidinov
  */
 
-namespace app\core;
+namespace akhlidinov\phpmvc;
 
 class Response
 {

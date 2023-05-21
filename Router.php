@@ -5,9 +5,9 @@
  *   https://github.com/JamshidbekAkhlidinov
  */
 
-namespace app\core;
+namespace akhlidinov\phpmvc;
 
-use app\core\exception\NotFoundException;
+use akhlidinov\phpmvc\exception\NotFoundException;
 
 class Router
 {

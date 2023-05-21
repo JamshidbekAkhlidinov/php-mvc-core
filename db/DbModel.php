@@ -4,10 +4,10 @@
  *   16 - 5 2023 18:43:37
  *   https://github.com/JamshidbekAkhlidinov
  */
-namespace app\core\db;
+namespace akhlidinov\phpmvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use akhlidinov\phpmvc\Application;
+use akhlidinov\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

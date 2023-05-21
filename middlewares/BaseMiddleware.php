@@ -5,7 +5,7 @@
  *   https://github.com/JamshidbekAkhlidinov
  */
 
-namespace app\core\middlewares;
+namespace akhlidinov\phpmvc\middlewares;
 
 abstract class BaseMiddleware
 {

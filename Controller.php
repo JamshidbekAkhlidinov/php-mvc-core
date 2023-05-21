@@ -5,9 +5,9 @@
  *   https://github.com/JamshidbekAkhlidinov
  */
 
-namespace app\core;
+namespace akhlidinov\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use akhlidinov\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

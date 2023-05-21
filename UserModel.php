@@ -5,9 +5,9 @@
  *   https://github.com/JamshidbekAkhlidinov
  */
 
-namespace app\core;
+namespace akhlidinov\phpmvc;
 
-use app\core\db\DbModel;
+use akhlidinov\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

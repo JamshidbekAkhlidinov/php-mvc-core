@@ -5,9 +5,9 @@
  *   https://github.com/JamshidbekAkhlidinov
  */
 
-namespace app\core\form;
+namespace akhlidinov\phpmvc\form;
 
-use app\core\Model;
+use akhlidinov\phpmvc\Model;
 
 abstract class BaseField
 {

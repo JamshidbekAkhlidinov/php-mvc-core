@@ -5,7 +5,7 @@
  *   https://github.com/JamshidbekAkhlidinov
  */
 
-namespace app\core\exception;
+namespace akhlidinov\phpmvc\exception;
 
 class ForbiddenException extends \Exception
 {

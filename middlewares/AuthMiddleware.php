@@ -5,10 +5,10 @@
  *   https://github.com/JamshidbekAkhlidinov
  */
 
-namespace app\core\middlewares;
+namespace akhlidinov\phpmvc\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use akhlidinov\phpmvc\Application;
+use akhlidinov\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {
